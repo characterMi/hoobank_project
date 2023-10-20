@@ -4,7 +4,7 @@
 
 # hoobank
 
-a modern site with a good looking UI and UX
+a Fully Responsive Website with Modern UI/UX
 
 #### [Click Here](https://charactermi.github.io/hoobank_project) to see the Demo
 
