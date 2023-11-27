@@ -1,16 +1,47 @@
-# over view
+# 🏦 Hoobank
 
-<img src="https://github.com/characterMi/hoobank_project/blob/main/hoobank_project.png" alt="image" />
+### a Fully Responsive Website with Modern UI/UX
 
-# hoobank
+## Link 🔗 [https://charactermi.github.io/hoobank_project](https://charactermi.github.io/hoobank_project)
 
-a Fully Responsive Website with Modern UI/UX
+<br />
 
-#### [Click Here](https://charactermi.github.io/hoobank_project) to see the Demo
+# Preview
 
-# technologies
+<img src="./preview_images/hoobank_first.png" alt="first" />
+  <br />
+<img src="./preview_images/hoobank_second.png" alt="second" />
+  <br />
+<img src="./preview_images/hoobank_third.png" alt="third" />
+  <br />
+<img src="./preview_images/hoobank_fourth.png" alt="fourth" />
+  <br />
+<img src="./preview_images/hoobank_fifth.png" alt="fifth" />
+  <br />
+<img src="./preview_images/hoobank_sixth.png" alt="sixth" />
 
-<p>
-  <img src="https://github.com/characterMi/characterMi/blob/main/icons8-react-native.svg" width="36" height="36" alt="React" />
-  <img src="https://github.com/characterMi/characterMi/blob/main/tailwind.svg" width="36" height="36" alt="Tailwind Css" />
-</p>
+<br />
+
+# Mobile Responsive
+
+<img src="./preview_images/hoobank_responsive.png" alt="responsive" />
+
+# Technologies
+
+<ul>
+    <li>
+        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/icons8-html.svg" alt="HTML" />
+    </li>
+    <li>
+        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/icons8-css.svg" alt="Css" />
+    </li>
+    <li>
+        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/icons8-js.svg" alt="Js" />
+    </li>
+    <li>
+        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/icons8-react-native.svg" width="46" height="46" alt="React" />
+    </li>
+    <li>
+        <img src="https://github.com/characterMi/characterMi/raw/main/technologies/tailwind.svg" width="46" height="46" alt="Tailwind Css" />
+    </li>
+</ul>
