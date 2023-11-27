@@ -9,15 +9,10 @@
 # Preview
 
 <img src="./preview_images/hoobank_first.png" alt="first" />
-  <br />
 <img src="./preview_images/hoobank_second.png" alt="second" />
-  <br />
 <img src="./preview_images/hoobank_third.png" alt="third" />
-  <br />
 <img src="./preview_images/hoobank_fourth.png" alt="fourth" />
-  <br />
 <img src="./preview_images/hoobank_fifth.png" alt="fifth" />
-  <br />
 <img src="./preview_images/hoobank_sixth.png" alt="sixth" />
 
 <br />
